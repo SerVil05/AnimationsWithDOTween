@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: 1494f1a7567678e44aa4a86a99cb52ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3719
+        width: 358
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2b63bfdd52794fba95e01f8988486
+      internalID: -230749781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_1
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 4084
+        width: 306
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041ba6ebb46b205458394999bd58a4ff
+      internalID: 1987586009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_2
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 4094
+        width: 145
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74f9f0c5da2f246b2ee95bf59cf9f5
+      internalID: 1504870800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_3
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 4057
+        width: 107
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f2fb36436a1948bf9772eaad2a82f
+      internalID: -683159471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_4
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3975
+        width: 140
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab7ae84b0e86b047be2820776fb44de
+      internalID: 1770569114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_5
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3904
+        width: 961
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ec36cb36410145870317c91368fff
+      internalID: -2134934138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_6
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 3990
+        width: 270
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46867caf7390d194a86ab6f64a287dab
+      internalID: -1607900851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3725
+        width: 142
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d655226f82ad045b8cdbccd286838a
+      internalID: -1924173965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3725
+        width: 115
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910017109c1a71408840b3e0c575828
+      internalID: 74987153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_9
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 3982
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45082b918d548da4fa9fba331b77e26f
+      internalID: -162451626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_10
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3902
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a85c70645a1814cb95504f211eefac
+      internalID: 1435253550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_11
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 3758
+        width: 507
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ae08399a6b23d488f24e7e96cee179
+      internalID: -352788421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_12
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 3977
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a4781ab34873418db50ba25a854ae
+      internalID: 272416201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3719
+        width: 116
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e15f25caaffb4482b5a465f0e8c9f
+      internalID: 1150460854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_14
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3721
+        width: 231
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0969eeb35712d947945e82caf171804
+      internalID: 1674339553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_15
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3831
+        width: 44
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b28511bda711a4e992e8120a4d132a
+      internalID: 1849643751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_16
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 3761
+        width: 44
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caceef9f2ea42394384070c2ec68bd05
+      internalID: -105199921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_17
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 3758
+        width: 204
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbd989bcb45d484bbdf5e185c7a2e1e
+      internalID: 413044204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_18
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3575
+        width: 662
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5980516a4f73c469f080a4bfd94344
+      internalID: 105043847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_19
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 3700
+        width: 416
+        height: 198
+      alignment: 9
+      pivot: {x: 0.20040306, y: 0.4482656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3998dec99b673741bb75b87b77f199f
+      internalID: -1061736600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_20
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3765
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a7eb89128f006489a52cca1c6c8ea0
+      internalID: -1624640093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3496
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17dbca33b7d3564fbb14c4a8434d8da
+      internalID: -643497164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3515
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb07147c9faf5b14f942825314c920ba
+      internalID: -472565987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3385
+        width: 356
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a158e87bcadc2048b86b91b65e1727e
+      internalID: 833774462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_24
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3385
+        width: 351
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140e75ad6e8c08e4ca48ca7e11038bf7
+      internalID: -702568778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_25
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3385
+        width: 352
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8400d140e051141b1d7ca578c2ea9a
+      internalID: -1010705129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_26
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 3385
+        width: 358
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227db617994b6c4f907d692305edb9c
+      internalID: 1981121621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_27
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 3379
+        width: 194
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786ef79d48d1fe49bf6c4b043bf9c86
+      internalID: 663123199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_28
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 3577
+        width: 333
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66628e16cad084cbc26da69ad28212
+      internalID: -768264664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_29
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 3481
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4f2aeaadc0214cbc858df61bbd6c8
+      internalID: -639787761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3331
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e2b42b6ca35a439e252aea08d17b6
+      internalID: -1941531829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3331
+        width: 65
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a29d21adec24438c02da03c390529
+      internalID: -833516919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3319
+        width: 125
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42095960cb7127d40bf685c895ca8c14
+      internalID: -1947522367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_33
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3231
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b754010c7649ee40b8079cf00ea7516
+      internalID: 899802629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_34
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3212
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd23b206c8da7a4295d1f8ccbaef6ac
+      internalID: 1089463927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2727
+        width: 567
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc70e1432f258846962307e381147be
+      internalID: 1109412182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_36
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2664
+        width: 202
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165c3907312b314983c156d07b4d488
+      internalID: 1510684672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_37
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2927
+        width: 289
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3f69e3e0507344b462059608c8672
+      internalID: -1559052049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_38
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2927
+        width: 288
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b592d856439b49acacb93f377a348
+      internalID: 780716432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_39
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 3179
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429d696e5848434581ab3c33652f4be
+      internalID: 1793071105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_40
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 3140
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214861766afcb1641bc47ca45221956f
+      internalID: 902962220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2725
+        width: 539
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2104aef6722f24184e43b6ffa85c2e
+      internalID: -1749298450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_42
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 3092
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbcb26cb829d604dbad10d16fd64152
+      internalID: 1034740317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_43
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 3044
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83405dcfa3f9a840a9ef72c908cb251
+      internalID: 41942053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_44
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 2493
+        width: 914
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6adf9f62f30b4d9feae476bb44bc5
+      internalID: 1043738269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_45
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2998
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16255e31fc1fa4ba3ef139c969f9ed
+      internalID: 1996943986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_46
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 2962
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ad132a46dc374f8db0a782688f51c
+      internalID: 2101759574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_47
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2664
+        width: 202
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2546321fd77524d9a1034fe126c1e1
+      internalID: 1794981705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_48
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2939
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2d9ad6e5452ca4d88701c84565f52d
+      internalID: -57262257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_49
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2931
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7d77f4c4644f4eb92273f3d9b665c
+      internalID: -764946521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 1865
+        height: 779
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27a78e6ff85f34cb44946b23dd16f4
+      internalID: -346327238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_51
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 2006
+        width: 984
+        height: 867
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74fd99995b0584e95c63e19ae94d32
+      internalID: -230032485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_52
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1985
+        width: 914
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b48a54833ab494da7d469aff845d75
+      internalID: -1928423939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 453
+        width: 1565
+        height: 1367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aa7533ceb451348807c71f3f0c3a04
+      internalID: -2017964555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_54
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1162
+        width: 695
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414538187efe57439fcb37f77e9c5db
+      internalID: 1272485239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_55
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1289
+        width: 586
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ada144d8faaa4a8f5d2d279cf54db
+      internalID: -1668653905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_56
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1652
+        width: 325
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d365c9be545fb43b91f5ed3f6222d2
+      internalID: -1440532022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_57
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 1529
+        width: 296
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c0c0ffbd49614aaa117479e768f72
+      internalID: 1684373058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_58
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 439
+        width: 1343
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064063b2e2b1d9340b7b921be50f3b47
+      internalID: -2047643568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 139
+        width: 684
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd36e4da021ac40acfe5b45bbbd9f8
+      internalID: -1500998677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_60
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 139
+        width: 794
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccfe36caa7949945b6b1a3b6b97a838
+      internalID: 795371420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_61
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 139
+        width: 168
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57596a0d1e370f049a4396c8fdf7a8e0
+      internalID: -595809798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_62
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 114
+        width: 771
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98fa706354f0a740831274b6a9fb90e
+      internalID: -675209713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_personaje_y_elementos-01_63
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 114
+        width: 773
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79045eef2cdd1db4ba376395ce8dfc95
+      internalID: 848935946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_personaje_y_elementos-01_20: -1624640093
+      Atlas_personaje_y_elementos-01_30: -1941531829
+      Atlas_personaje_y_elementos-01_49: -764946521
+      Atlas_personaje_y_elementos-01_52: -1928423939
+      Atlas_personaje_y_elementos-01_5: -2134934138
+      Atlas_personaje_y_elementos-01_36: 1510684672
+      Atlas_personaje_y_elementos-01_23: 833774462
+      Atlas_personaje_y_elementos-01_1: 1987586009
+      Atlas_personaje_y_elementos-01_4: 1770569114
+      Atlas_personaje_y_elementos-01_43: 41942053
+      Atlas_personaje_y_elementos-01_26: 1981121621
+      Atlas_personaje_y_elementos-01_58: -2047643568
+      Atlas_personaje_y_elementos-01_55: -1668653905
+      Atlas_personaje_y_elementos-01_54: 1272485239
+      Atlas_personaje_y_elementos-01_10: 1435253550
+      Atlas_personaje_y_elementos-01_22: -472565987
+      Atlas_personaje_y_elementos-01_27: 663123199
+      Atlas_personaje_y_elementos-01_59: -1500998677
+      Atlas_personaje_y_elementos-01_35: 1109412182
+      Atlas_personaje_y_elementos-01_2: 1504870800
+      Atlas_personaje_y_elementos-01_37: -1559052049
+      Atlas_personaje_y_elementos-01_11: -352788421
+      Atlas_personaje_y_elementos-01_53: -2017964555
+      Atlas_personaje_y_elementos-01_32: -1947522367
+      Atlas_personaje_y_elementos-01_34: 1089463927
+      Atlas_personaje_y_elementos-01_46: 2101759574
+      Atlas_personaje_y_elementos-01_29: -639787761
+      Atlas_personaje_y_elementos-01_40: 902962220
+      Atlas_personaje_y_elementos-01_48: -57262257
+      Atlas_personaje_y_elementos-01_62: -675209713
+      Atlas_personaje_y_elementos-01_18: 105043847
+      Atlas_personaje_y_elementos-01_28: -768264664
+      Atlas_personaje_y_elementos-01_0: -230749781
+      Atlas_personaje_y_elementos-01_13: 1150460854
+      Atlas_personaje_y_elementos-01_33: 899802629
+      Atlas_personaje_y_elementos-01_9: -162451626
+      Atlas_personaje_y_elementos-01_60: 795371420
+      Atlas_personaje_y_elementos-01_44: 1043738269
+      Atlas_personaje_y_elementos-01_41: -1749298450
+      Atlas_personaje_y_elementos-01_63: 848935946
+      Atlas_personaje_y_elementos-01_24: -702568778
+      Atlas_personaje_y_elementos-01_19: -1061736600
+      Atlas_personaje_y_elementos-01_31: -833516919
+      Atlas_personaje_y_elementos-01_47: 1794981705
+      Atlas_personaje_y_elementos-01_12: 272416201
+      Atlas_personaje_y_elementos-01_57: 1684373058
+      Atlas_personaje_y_elementos-01_3: -683159471
+      Atlas_personaje_y_elementos-01_61: -595809798
+      Atlas_personaje_y_elementos-01_8: 74987153
+      Atlas_personaje_y_elementos-01_15: 1849643751
+      Atlas_personaje_y_elementos-01_56: -1440532022
+      Atlas_personaje_y_elementos-01_21: -643497164
+      Atlas_personaje_y_elementos-01_50: -346327238
+      Atlas_personaje_y_elementos-01_42: 1034740317
+      Atlas_personaje_y_elementos-01_25: -1010705129
+      Atlas_personaje_y_elementos-01_16: -105199921
+      Atlas_personaje_y_elementos-01_51: -230032485
+      Atlas_personaje_y_elementos-01_45: 1996943986
+      Atlas_personaje_y_elementos-01_17: 413044204
+      Atlas_personaje_y_elementos-01_7: -1924173965
+      Atlas_personaje_y_elementos-01_39: 1793071105
+      Atlas_personaje_y_elementos-01_14: 1674339553
+      Atlas_personaje_y_elementos-01_6: -1607900851
+      Atlas_personaje_y_elementos-01_38: 780716432
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
